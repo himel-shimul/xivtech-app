@@ -11,7 +11,7 @@ const AiLeftSide = () => {
         Future-Proof your business. <br /> Drive efficiency, profitability <br /> and deliver
         on customer experience
       </h2>
-      <h2 className='text-xl font-bold font-serif mt-8'>AI + RPA Automation <BsArrowRight  className='inline hover:translate-x-3 duration-300 text-3xl mx-6'></BsArrowRight></h2>
+      <h2 className='text-xl cursor-pointer font-bold font-serif mt-8'>AI + RPA Automation <BsArrowRight  className='inline hover:translate-x-3 duration-300 text-3xl mx-6'></BsArrowRight></h2>
 
     </div>
   );
