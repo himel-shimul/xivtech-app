@@ -8,12 +8,12 @@ const AiComponent = () => {
   return (
     <>
       <div className="hidden lg:block ">
-      <div className="flex w-[60%] my-4 mx-auto">
+      <div className="flex w-[60%] my-6 mx-auto">
         <AiLeftSide></AiLeftSide>
         <AiRightSide></AiRightSide>
       </div>
       </div>
-      <div className="lg:hidden p-2 mb-8 mx-4">
+      <div className="lg:hidden p-2 mb-8 mx-4 ">
         <h2 className="text-[38px] leading-relaxed font-serif">
           AI + RPA is what we do
         </h2>

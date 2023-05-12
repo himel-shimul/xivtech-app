@@ -2,12 +2,13 @@ import React from 'react';
 import DigLeftSide from './DigLeftSide';
 import DigRightSide from './DigRightSide';
 import { BsArrowRight } from 'react-icons/bs';
+import img from '../../assets/p1.png';
 
 const DigitalComponents = () => {
     return (
         <>
         <div className='hidden lg:block '>
-            <div className=' flex w-[60%] my-4 mx-auto'>
+            <div className=' flex w-[60%] my-6 mx-auto'>
             <DigLeftSide></DigLeftSide>
             <DigRightSide></DigRightSide>
             </div>
@@ -16,7 +17,7 @@ const DigitalComponents = () => {
         <h2 className="text-[36px] font-serif my-6">
       Make Bolder Choices
       </h2>
-      <img className='w-full mt-8 h-auto my-auto' src="https://www.xivtech.io./p1.png" alt="" />
+      <img className='w-full mt-8 h-auto my-auto' src={img} alt="" />
 
       <h2 className="text-xl leading-relaxed font-serif mt-3">
       Digital focused strategies to realize market-changing ideas

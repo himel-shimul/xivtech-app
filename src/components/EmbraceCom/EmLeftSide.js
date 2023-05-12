@@ -11,7 +11,7 @@ const EmLeftSide = () => {
       With Cloud-First accelerate <br /> innovation and optimize <br /> performance
       </h2>
       
-      <h2 className='text-xl font-bold font-serif mt-8'>Cloud Services <BsArrowRight className='inline hover:translate-x-3 duration-300  text-3xl mx-6'></BsArrowRight></h2>
+      <h2 className='text-xl cursor-pointer font-bold font-serif mt-8'>Cloud Services <BsArrowRight className='inline hover:translate-x-3 duration-300  text-3xl mx-6'></BsArrowRight></h2>
     </div>
     );
 };
