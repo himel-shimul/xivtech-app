@@ -12,7 +12,7 @@ const InnovatComponent = () => {
           <InRightSide></InRightSide>
         </div>
       </div>
-      <div className="lg:hidden p-2 mb-8">
+      <div className="lg:hidden p-2 mb-8  mx-4">
         <h2 className="text-[38px] leading-relaxed font-serif">
           Innovate with Speed
         </h2>

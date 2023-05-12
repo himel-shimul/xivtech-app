@@ -12,8 +12,8 @@ const DigitalComponents = () => {
             <DigRightSide></DigRightSide>
             </div>
         </div>
-        <div className="lg:hidden p-2 mb-8">
-        <h2 className="text-[36px] font-serif">
+        <div className="lg:hidden p-2 mb-8 mx-4">
+        <h2 className="text-[36px] font-serif my-6">
       Make Bolder Choices
       </h2>
       <img className='w-full mt-8 h-auto my-auto' src="https://www.xivtech.io./p1.png" alt="" />
