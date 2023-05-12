@@ -8,7 +8,7 @@ const DigitalComponents = () => {
     return (
         <>
         <div className='hidden lg:block '>
-            <div className=' flex w-[60%] my-6 mx-auto'>
+            <div className=' flex w-[65%] my-6 mx-auto '>
             <DigLeftSide></DigLeftSide>
             <DigRightSide></DigRightSide>
             </div>
